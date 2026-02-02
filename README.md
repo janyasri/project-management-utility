@@ -132,7 +132,8 @@ Deploying full-stack apps
 
 📧 Contact
 
-Name: Janya Sri
+Name:  Vankudoth Janya Sri
+
 Email: janyasri2005@gmail.com
 
 LinkedIn: www.linkedin.com/in/janya-sri-vankudoth-1877252b
